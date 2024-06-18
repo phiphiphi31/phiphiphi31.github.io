@@ -4,4 +4,5 @@ Last years, I worked with Prof. [Wankou Yang](https://scholar.google.com/citatio
 
 My research interests focus on computer vision tasks, such as visual object tracking, object detection, and segmentation. I also have a special interest in general vision backbone designs, such as vision transformers and mamba.
 
+I come from Ganzhou (赣州) in Jiangxi province. 
 
