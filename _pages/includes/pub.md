@@ -55,7 +55,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/dualtfr2021a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/dualtfr2021b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Learning Tracking Representations via Dual-Branch Fully Transformer Networks](https://arxiv.org/pdf/2112.02571) \\
