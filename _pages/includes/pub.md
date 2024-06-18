@@ -33,8 +33,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-</div>
-</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/videotrack2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -45,8 +44,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-</div>
-</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/sbt2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -57,8 +55,6 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/dualtfr_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -69,8 +65,6 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/samn2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
