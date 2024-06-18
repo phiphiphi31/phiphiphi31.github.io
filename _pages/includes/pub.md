@@ -7,7 +7,7 @@
 
 [Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
 **Fei Xie**, Jiaohao Nie, Zhongdao Wang, Chao Ma.
-- sctrack is the first joint modeling framework on 3D single object tracking on points clouds.
+- SCtrack is the first joint modeling framework on 3D single object tracking on points clouds.
 
 </div>
 </div>
