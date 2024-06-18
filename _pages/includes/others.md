@@ -1,8 +1,9 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2022.09 - Now*, PhD Student, Shanghai Jiaotong University, Shanghai.
+- *2019.06 - 2022.04*, Master, Southeast University, Nanjing.
+- *2016.09 - 2018.04*, Master, University of British Columbia, Vancouver.
+- *2012.06 - 2016.06*, Bachelor, Huazhong University of Science and Technology University, Wuhan.
 
 
 # 💻 Internships
