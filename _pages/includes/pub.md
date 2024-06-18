@@ -2,7 +2,7 @@
 # 📝 Publications (As the First Author)
 ## Tracking on Video and Point Clouds
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/sctrack2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/sctrack2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trans</div><img src='images/supersbt2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trans</div><img src='images/supersbt2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correlation-Embedded Transformer Tracking:
@@ -23,7 +23,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/diffusiontrack2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/diffusiontrack2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) \\
@@ -34,7 +34,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/videotrack2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/videotrack2023a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [VideoTrack: Learning to Track Objects via Video Transformer](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf) \\
@@ -45,7 +45,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/sbt2022a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/sbt2022b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correlation-Aware Deep Tracking](https://arxiv.org/pdf/2203.01666) \\
@@ -55,7 +55,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/dualtfr_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/dualtfr_2021a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Learning Tracking Representations via Dual-Branch Fully Transformer Networks](https://arxiv.org/pdf/2112.02571) \\
@@ -65,7 +65,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/samn2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVw 2021</div><img src='images/samn2021a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking](https://openaccess.thecvf.com/content/ICCV2021W/VOT/papers/Xie_Learning_Spatio-Appearance_Memory_Network_for_High-Performance_Visual_Tracking_ICCVW_2021_paper.pdf) \\
