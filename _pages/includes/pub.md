@@ -12,6 +12,9 @@
 
 - sctrack.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/diffusiontrack2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) \\
 **Fei Xie**, Zhongdao Wang, Chao Ma.
 
