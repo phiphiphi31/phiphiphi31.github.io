@@ -45,7 +45,7 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/sbt2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/sbt2022a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correlation-Aware Deep Tracking](https://arxiv.org/pdf/2203.01666) \\
