@@ -11,6 +11,18 @@
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trans</div><img src='images/supersbt2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Correlation-Embedded Transformer Tracking:
+A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
+**Fei Xie**, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng.
+- SuperSBT.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/diffusiontrack2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
