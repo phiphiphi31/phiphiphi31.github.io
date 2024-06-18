@@ -2,5 +2,4 @@ I am a Ph.D. student at the Artificial Intelligence Research Institute of Shangh
 
 My research interests focus on computer vision tasks, such as visual object tracking, object detection, and segmentation. I also have a special interest in general vision backbone designs, such as vision transformers and mamba.
 
-#Prior to that, I received a bachelor's degree from the Huazhong University of Science and Technology and a Master's degree from Southeast University. 
 
