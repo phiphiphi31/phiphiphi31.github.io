@@ -7,6 +7,8 @@
 
 [Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
 **Fei Xie**, Jiaohao Nie, Zhongdao Wang, Chao Ma.
+- [Code]
+- [PDF]
 - SCtrack is the first joint modeling framework on 3D single object tracking on points clouds.
 
 </div>
@@ -18,6 +20,8 @@
 [Correlation-Embedded Transformer Tracking:
 A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 **Fei Xie**, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng.
+- [Code](https://github.com/phiphiphi31/SuperSBT)
+- [PDF](https://arxiv.org/pdf/2401.12743)
 - SuperSBT improves our Single-Branch Tracking framework with a more specialized design.
 </div>
 </div>
@@ -28,6 +32,8 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
   
 [DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) \\
 **Fei Xie**, Zhongdao Wang, Chao Ma.
+- [Code](https://github.com/phiphiphi31/DiffusionTrack)
+- [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf)
 - DiffusionTrack is the first diffusion-based generative framework for visual object tracking.
 </div>
 </div>
@@ -39,6 +45,8 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
   
 [VideoTrack: Learning to Track Objects via Video Transformer](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf) \\
 **Fei Xie**, Lei Chu, Jiahao Li, Yan Lu and Chao Ma.
+- [Code](https://github.com/phiphiphi31/VideoTrack)
+- [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf)
 - VideoTrack is the first video backbone network for visual tracking.
 </div>
 </div>
@@ -50,6 +58,8 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
   
 [Correlation-Aware Deep Tracking](https://arxiv.org/pdf/2203.01666) \\
 **Fei Xie**, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng.
+- [Code](https://github.com/phiphiphi31/SBT)
+- [PDF](https://arxiv.org/pdf/2203.01666)
 - SBT is a fully transformer-based model that simplifies the Siamese tracking framework by using joint feature extraction and correlation.
 </div>
 </div>
@@ -60,6 +70,8 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
   
 [Learning Tracking Representations via Dual-Branch Fully Transformer Networks](https://arxiv.org/pdf/2112.02571) \\
 **Fei Xie**, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng.
+- [Code](https://github.com/phiphiphi31/DualTFR)
+- [PDF](https://arxiv.org/pdf/2112.02571)
 - DualTFR is the first fully transformer-based tracking model that inspires researchers to adopt transformer-based feature extraction for tracking.
 </div>
 </div>
@@ -70,7 +82,8 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
   
 [Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking](https://openaccess.thecvf.com/content/ICCV2021W/VOT/papers/Xie_Learning_Spatio-Appearance_Memory_Network_for_High-Performance_Visual_Tracking_ICCVW_2021_paper.pdf) \\
 **Fei Xie**, Wankou Yang, Kaihua Zhang, Bo Liu, Guangting Wang, Wangmeng Zuo
-- [code](https://github.com/phiphiphi31/DMB) 
+- [Code](https://github.com/phiphiphi31/DMB)
+- [PDF](https://openaccess.thecvf.com/content/ICCV2021W/VOT/papers/Xie_Learning_Spatio-Appearance_Memory_Network_for_High-Performance_Visual_Tracking_ICCVW_2021_paper.pdf)
 - SAMN can simultaneously track objects and conduct segmentation.
 </div>
 </div>
