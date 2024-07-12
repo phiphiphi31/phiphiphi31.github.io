@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/sctrack2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+[Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://github.com/phiphiphi31/sctrack) \\
 **Fei Xie**, Jiaohao Nie, Zhongdao Wang, Chao Ma.
 - SCtrack is the first joint motion and appearance modeling framework on 3D single object tracking on points clouds.
 - [CODE](https://github.com/phiphiphi31/sctrack)
