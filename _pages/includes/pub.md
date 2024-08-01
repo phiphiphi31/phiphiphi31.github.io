@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://github.com/phiphiphi31/sctrack) \\
-**Fei Xie**, Jiaohao Nie, Zhongdao Wang, Chao Ma.
+**Fei Xie**, Jiaohao Nie, Zhongdao Wang, Zhiwei He, Chao Ma.
 - SCtrack is the first joint motion and appearance modeling framework on 3D single object tracking on points clouds.
 - [CODE](https://github.com/phiphiphi31/sctrack)
 - [PDF](https://github.com/phiphiphi31/sctrack)
