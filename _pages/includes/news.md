@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.08*: 🎉 Good first-round review results from Neurip2024!
 - *2024.07*: 🎉 One paper is accepted by ECCV 2024
 - *2024.05*: 🎉 One paper is accepted by Pattern Recognition
 - *2024.04*: 🎉 One paper gets a "Major Revision" decision from T-PAMI
