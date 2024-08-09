@@ -2,7 +2,7 @@
 # 📝 Publications (As the First Author)
 ## Tracking on Video and Point Clouds
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/sctrack2024a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/sctrack2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://github.com/phiphiphi31/sctrack) \\
