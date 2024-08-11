@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trans</div><img src='images/supersbt2024a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI</div><img src='images/supersbt2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correlation-Embedded Transformer Tracking:
