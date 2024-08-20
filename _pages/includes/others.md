@@ -16,3 +16,8 @@
 - *2024.06*, CVPR24 seminar 
 - *2023.06*, CVPR23 seminar \| [\[Video\]](https://www.youtube.com/watch?v=v-SvFZ0FrF8)
 - *2022.06*, CVPR22 seminar 
+
+
+# Academic Services
+- Conference Reviewer for CVPR, ICCV, ECCV, Neurips, ICLR, WACV, ACCV.  
+- Journal Reviewer for TNNLS, TMM, TCSVT, NN, IVC.
