@@ -1,15 +1,15 @@
 
 # 📝 Publications (As the First Author)
-## Tracking on Video and Point Clouds
+## Visual models/Tracking on Video and Point Clouds
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/sctrack2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking](https://github.com/phiphiphi31/sctrack) \\
+[QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model](https://arxiv.org/pdf/2401.12743) \\
 **Fei Xie**, Jiaohao Nie, Zhongdao Wang, Zhiwei He, Chao Ma.
-- SCtrack is the first joint motion and appearance modeling framework on 3D single object tracking on points clouds.
-- [CODE](https://github.com/phiphiphi31/sctrack)
-- [PDF](https://github.com/phiphiphi31/sctrack)
+- QuadMamba is a visual Mamba-based backbone network for classification, detection and segmentation.
+- [CODE]
+- [PDF]
 
 </div>
 </div>
