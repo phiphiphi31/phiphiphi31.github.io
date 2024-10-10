@@ -5,11 +5,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/sctrack2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model](https://arxiv.org/pdf/2401.12743) \\
+[QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model](https://arxiv.org/pdf/2410.06806) \\
 **Fei Xie**, Weijia Zhang, Zhongdao Wang, Chao Ma.
 - QuadMamba is a visual Mamba-based backbone network for classification, detection, and segmentation.
-- [CODE]
-- [PDF]
+- [CODE](https://github.com/VISION-SJTU/QuadMamba)
+- [PDF](https://arxiv.org/pdf/2410.06806)
 
 </div>
 </div>
