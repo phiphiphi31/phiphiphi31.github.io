@@ -2,7 +2,7 @@
 # 📝 Publications (As the First Author)
 ## Visual models/Tracking on Video and Point Clouds
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/quadmamba2024a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024</div><img src='images/quadmamba2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model](https://arxiv.org/pdf/2410.06806) \\
