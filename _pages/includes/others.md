@@ -20,4 +20,4 @@
 
 # 💬 Academic Services
 - Conference Reviewer for CVPR, ICCV, ECCV, Neurips, ICLR, WACV, ACCV.  
-- Journal Reviewer for TNNLS, TMM, TCSVT, NN, IVC.
+- Journal Reviewer for TPAMI, TNNLS, TMM, TCSVT, NN, IVC.
