@@ -1,5 +1,5 @@
 
-# 📝 Publications (As the First Author)
+# 📝 Publications (As the First Author/Corresponding Author)
 ## Visual model design/Tracking on Video and Point Clouds
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/coming_soon.png' alt="sym" width="100%"></div></div>
