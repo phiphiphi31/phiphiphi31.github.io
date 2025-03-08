@@ -2,14 +2,14 @@
 # 📝 Publications (As the First Author/Corresponding Author)
 ## Visual model design/Tracking on Video and Point Clouds
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/coming_soon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25_work.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coming soon](https://arxiv.org/pdf/2410.06806) \\
+[Mamba](https://arxiv.org/pdf/2410.06806) \\
 **Fei Xie**.
-- Coming soon...
-- [CODE](https://github.com/VISION-SJTU/QuadMamba)
-- [PDF](https://arxiv.org/pdf/2410.06806)
+- Vision Mamba related work...
+- CODE
+- PDF
 
 </div>
 </div>
