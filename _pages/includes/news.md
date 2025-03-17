@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.03*: 🎉 Congrats to Dr.Nie! One [paper](https://arxiv.org/pdf/2407.05238) is accepted by IJCV! 
 - *2025.02*: 🎉 One paper is accepted by CVPR 2025!
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024!
 - *2024.08*: 🎉 One paper is accepted by T-PAMI with no changes
