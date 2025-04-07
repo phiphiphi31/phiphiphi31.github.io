@@ -5,9 +5,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mamba](https://arxiv.org/pdf/2410.06806) \\
+[Mamba-Adaptor: State Space Model Adaptor for Visual Recognition](https://arxiv.org/pdf/2410.06806) \\
 **Fei Xie**, Jiahao Nie2, Yujin Tan, Wenkang Zhang, Hongshen Zhao
-- Mamba-Adaptor: State Space Model Adaptor for Visual Recognition
+- Specialized Adaptor module design for Vision Mamba.
 - CODE
 - PDF
 
