@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Mamba-Adaptor: State Space Model Adaptor for Visual Recognition](https://arxiv.org/pdf/2410.06806) \\
-**Fei Xie**, Jiahao Nie2, Yujin Tan, Wenkang Zhang, Hongshen Zhao
+**Fei Xie**, Jiahao Nie, Yujin Tan, Wenkang Zhang, Hongshen Zhao
 - Specialized Adaptor module design for Vision Mamba.
 - CODE
 - PDF
