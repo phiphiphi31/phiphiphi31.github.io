@@ -2,12 +2,12 @@
 # 📝 Publications (As the First Author/Corresponding Author)
 ## Visual model design/Tracking on Video and Point Clouds
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25_work.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mamba](https://arxiv.org/pdf/2410.06806) \\
-**Fei Xie**.
-- Vision Mamba related work...
+**Fei Xie**, Jiahao Nie2, Yujin Tan, Wenkang Zhang, Hongshen Zhao
+- Mamba-Adaptor: State Space Model Adaptor for Visual Recognition
 - CODE
 - PDF
 
