@@ -6,4 +6,6 @@ My research interests focus on computer vision and generative tasks, such as vis
 
 I am expected to graduate in June 2026. If you have any job opportunities from universities or companies, please contact me. 
 
-tel/wechat:14779773579, email: jaffe0319@gmail.com
+预期26年毕业，如果您有高校/企业的教职/研发/博后岗位，请联系我！
+
+Tel/wechat:14779773579, Email: jaffe0319@gmail.com
