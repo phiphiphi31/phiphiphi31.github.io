@@ -8,4 +8,4 @@ I am expected to graduate in June 2026. If you have any job opportunities from u
 
 Tel/wechat:14779773579, Email: jaffe0319@gmail.com
 
-预期26年毕业，如果您有高校/企业的教职/研发/博后岗位，请联系我！
+预期26年毕业，如果您有高校或企业的教职/研发/博后岗位，请联系我！
