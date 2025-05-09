@@ -1,6 +1,7 @@
 
-# 📝 Publications (4 * CVPR, 1 * NeurIPS, 1 * T-PAMI as the Independent First Author)
-## Vision foundation model/Tracking on Video and Point Clouds
+# 📝 Publications 
+## (4 * CVPR, 1 * NeurIPS, 1 * T-PAMI as the Independent First Author)
+## Vision Foundation Model/Tracking on Video and Point Clouds
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
