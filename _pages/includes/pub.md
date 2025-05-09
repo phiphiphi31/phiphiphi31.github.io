@@ -15,7 +15,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/p2p.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/p2p.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds](https://arxiv.org/abs/2407.05238) \\
@@ -66,6 +66,19 @@ A Single-Branch Framework](https://arxiv.org/pdf/2401.12743) \\
 - [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf)
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/tcu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Towards Category Unification of 3D Single Object Tracking on Point Clouds](https://arxiv.org/pdf/2401.11204) \\
+Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, **Fei Xie**
+- First attempt to track multiple categories in point clouds.
+- [CODE](https://arxiv.org/pdf/2401.11204)
+- [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf)
+</div>
+</div>
+
 
 
 
