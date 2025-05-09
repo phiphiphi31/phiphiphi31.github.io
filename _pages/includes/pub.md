@@ -15,6 +15,21 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/p2p.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds](https://arxiv.org/abs/2407.05238) \\
+Jiahao Nie, **Fei Xie**, Sifan Zhou, Xueyi Zhou, Dong-Kyu Chae, Zhiwei He
+- A simple motion-based single object tracker in point clouds.
+- [CODE](https://github.com/haooozi/P2P)
+- [PDF](https://arxiv.org/abs/2407.05238)
+
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/quadmamba2024a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
