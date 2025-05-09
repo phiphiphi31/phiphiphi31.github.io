@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-#### Independent First Author: <font color=Blue>4</font> x _CVPR_, <font color=Blue>1</font> x _T-PAMI_, <font color=Blue>1</font> x _NeurIPS_, <font color=Blue>1</font> x _ECCV_
+#### Independent First Author: <font color=Blue>_4_</font> x _CVPR_, <font color=Blue>_1_</font> x _T-PAMI_, <font color=Blue>_1_</font> x _NeurIPS_, <font color=Blue>_1_</font> x _ECCV_
 #### Research Topic: _Vision Foundation Model_/_Tracking on Video and Point Clouds_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
