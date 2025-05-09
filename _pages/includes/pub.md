@@ -1,5 +1,5 @@
 
-# 📝 Publications (As the First Author/Corresponding Author)
+# 📝 Publications (4 x CVPR, 1NeurIPS, 1 T-PAMI as the Independent First Author)
 ## Visual model design/Tracking on Video and Point Clouds
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
