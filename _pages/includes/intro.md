@@ -4,7 +4,7 @@ Last years, I worked with Prof. [Wankou Yang](https://scholar.google.com/citatio
 
 My research interests focus on computer vision and general AI, including visual perception in images and videos. I also have a special interest in multi-modal large language models (MLLM), generative AI (AIGC), and the design of foundation models (Transformer, RNNs, and Mamba).
 
-I am expected to graduate in June 2026. If you have any job opportunities available from universities or companies, please don't hesitate to contact me. 
+I am expected to graduate in June 2026. If you have any job opportunities available from universities or companies, please contact me. 
 
 Tel/wechat:14779773579, Email: jaffe0319@gmail.com
 
