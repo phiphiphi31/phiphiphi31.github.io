@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: 🎉 Two papers are accepted by ICCV 2025! 
 - *2025.03*: 🎉 Congrats to Dr.Nie! One paper is accepted by IJCV! 
 - *2025.02*: 🎉 One paper is accepted by CVPR 2025!
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024!
