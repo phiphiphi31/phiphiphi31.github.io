@@ -4,14 +4,14 @@
 #### Research Topic: _Vision Foundation Model_;_Tracking on Video and Point Clouds_
 #### Google Scholar Citation: <font color=Red>1000+</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/dvssm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deformable Visual State Space Model](https://arxiv.org/abs/2505.12685) \\
+[Dynamic Visual State Space Model](https://arxiv.org/pdf/2410.06806) \\
 **Fei Xie**, Zhongdao Wang, Weijia Zhang, Chao Ma
 - Adapting Mamba into visual data.
 - Coming soon. 
-- [PDF](https://arxiv.org/abs/2505.12685)
+- [PDF](https://arxiv.org/pdf/2410.06806)
 
 </div>
 </div>
