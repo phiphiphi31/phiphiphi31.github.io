@@ -1,13 +1,27 @@
 
 # 📝 Publications 
-#### Independent First Author in CCF-A List: <font color=Red>4</font> x _CVPR_, <font color=Red>1</font> x _T-PAMI_, <font color=Red>1</font> x _NeurIPS_, <font color=Red>1</font> x _ECCV_
+#### Independent First Author in CCF-A List: <font color=Red>4</font> x _CVPR_, <font color=Red>1</font> x _T-PAMI_, <font color=Red>1</font> x _NeurIPS_, <font color=Red>1</font> x _ICCV_, <font color=Red>1</font> x _ECCV_
 #### Research Topic: _Vision Foundation Model_;_Tracking on Video and Point Clouds_
 #### Google Scholar Citation: <font color=Red>1000+</font>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deformable Visual State Space Model](https://arxiv.org/abs/2505.12685) \\
+**Fei Xie**, Zhongdao Wang, Weijia Zhang, Chao Ma
+- Adapting Mamba into visual data.
+- Coming soon. 
+- [PDF](https://arxiv.org/abs/2505.12685)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mamba-Adaptor: State Space Model Adaptor for Visual Recognition](https://arxiv.org/abs/2505.12685) \\
-**Fei Xie**, Jiahao Nie, Yujin Tan, Wenkang Zhang, Hongshen Zhao
+**Fei Xie**, Jiahao Nie, Yujin Tang, Wenkang Zhang, Hongshen Zhao
 - Specialized Adaptor module design for Vision Mamba.
 - CODE
 - [PDF](https://arxiv.org/abs/2505.12685)
