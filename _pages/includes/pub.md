@@ -17,6 +17,18 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vrm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VRM: Knowledge Distillation via Virtual Relation Matching](https://arxiv.org/pdf/2410.06806) \\
+Weijia Zhang, **Fei Xie**, Weidong Cai, Chao Ma
+- Improved knowledge distillation method.
+- Coming soon. 
+- [PDF](https://arxiv.org/pdf/2410.06806)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
