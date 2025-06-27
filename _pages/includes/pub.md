@@ -7,9 +7,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/dvssm2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Visual State Space Model](https://arxiv.org/pdf/2410.06806) \\
+[PVMamba: Parallelizing Vision Mamba via Dynamic State Aggregation](https://arxiv.org/pdf/2410.06806) \\
 **Fei Xie**, Zhongdao Wang, Weijia Zhang, Chao Ma
-- Adapting Mamba into visual data.
+- Adapting Mamba into 2D visual data.
 - Coming soon. 
 - [PDF](https://arxiv.org/pdf/2410.06806)
 
