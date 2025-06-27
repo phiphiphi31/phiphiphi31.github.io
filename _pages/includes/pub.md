@@ -4,7 +4,7 @@
 #### Research Topic: _Vision Foundation Model_;_Tracking on Video and Point Clouds_
 #### Google Scholar Citation: <font color=Red>1000+</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pvmamba2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pvmamba3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PVMamba: Parallelizing Vision Mamba via Dynamic State Aggregation](https://arxiv.org/pdf/2410.06806) \\
@@ -17,7 +17,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vrm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vrm1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VRM: Knowledge Distillation via Virtual Relation Matching](https://arxiv.org/pdf/2410.06806) \\
@@ -29,7 +29,7 @@ Weijia Zhang, **Fei Xie**, Weidong Cai, Chao Ma
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mamba_adaptor1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mamba-Adaptor: State Space Model Adaptor for Visual Recognition](https://arxiv.org/abs/2505.12685) \\
