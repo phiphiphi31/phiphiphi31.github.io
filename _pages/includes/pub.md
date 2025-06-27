@@ -4,7 +4,7 @@
 #### Research Topic: _Vision Foundation Model_;_Tracking on Video and Point Clouds_
 #### Google Scholar Citation: <font color=Red>1000+</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/dvssm2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pvmamba2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PVMamba: Parallelizing Vision Mamba via Dynamic State Aggregation](https://arxiv.org/pdf/2410.06806) \\
