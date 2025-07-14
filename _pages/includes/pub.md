@@ -11,7 +11,7 @@
 [PVMamba: Parallelizing Vision Mamba via Dynamic State Aggregation](https://arxiv.org/pdf/2410.06806) \\
 **Fei Xie**, Zhongdao Wang, Weijia Zhang, Chao Ma
 - Adapting Mamba into 2D visual data.
-- Coming soon. 
+- [CODE](https://github.com/VISION-SJTU/PVMamba). 
 - [PDF](https://arxiv.org/pdf/2410.06806)
 
 </div>
