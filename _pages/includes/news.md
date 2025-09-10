@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.09*: 🎉 CVPR2025 best paper [VGGT](https://arxiv.org/pdf/2503.11651) cites our paper ["Correlation-Aware Deep Tracking"](https://arxiv.org/abs/2203.01666)!
+- *2025.09*: 🎉 CVPR 2025 best paper [VGGT](https://arxiv.org/pdf/2503.11651) cites our paper ["Correlation-Aware Deep Tracking"](https://arxiv.org/abs/2203.01666), which is the only one paper in 2D tracking area!
 - *2025.06*: 🎉 Two papers are accepted by ICCV 2025! 
 - *2025.03*: 🎉 Congrats to Dr.Nie! One paper is accepted by IJCV! 
 - *2025.02*: 🎉 One paper is accepted by CVPR 2025!
