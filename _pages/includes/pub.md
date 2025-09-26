@@ -3,7 +3,7 @@
 # 📝 Publications 
 #### Independent First Author in CCF-A List: <font color=Red>4</font> x _CVPR_, <font color=Red>1</font> x _T-PAMI_, <font color=Red>1</font> x _NeurIPS_, <font color=Red>1</font> x _ICCV_, <font color=Red>1</font> x _ECCV_
 #### Research Topic: _Vision Foundation Model_;_Tracking on Video and Point Clouds_
-#### Google Scholar Citation: <font color=Red>1000+</font>
+#### Google Scholar Citation: <font color=Red>1200+</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pvmamba3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
