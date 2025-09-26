@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: 🎉[2024 Reviewer Certificate](https://github.com/phiphiphi31/certificate_tpami2024) from TPAMI!
 - *2025.09*: 🎉 CVPR 2025 best paper [VGGT](https://arxiv.org/pdf/2503.11651) cites our paper ["Correlation-Aware Deep Tracking"](https://arxiv.org/abs/2203.01666), as the only one related work in 2D tracking!
 - *2025.06*: 🎉 Two papers are accepted by ICCV 2025! 
 - *2025.03*: 🎉 Congrats to Dr.Nie! One paper is accepted by IJCV! 
