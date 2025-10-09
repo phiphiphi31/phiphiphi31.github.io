@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.10*: 🎉 National Scholarship for Doctoral Students at Shanghai Jiao Tong University (2024-2025) 博士国家奖学金！
 - *2025.09*: 🎉[2024 Reviewer Certificate](https://github.com/phiphiphi31/certificate_tpami2024) from IEEE Transactions on Pattern Analysis and Machine Intelligence!
 - *2025.09*: 🎉 CVPR 2025 best paper [VGGT](https://arxiv.org/pdf/2503.11651) cites our paper ["Correlation-Aware Deep Tracking"](https://arxiv.org/abs/2203.01666), as the only one related work in 2D tracking!
 - *2025.09*: 🎉 PhD Dissertation Pre-defense Done! Expected to graduate in March 2026!
