@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/autofly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AUTOFLY: VISION-LANGUAGE-ACTION MODEL FOR UAV AUTONOMOUS NAVIGATION IN THE WILD](https://openreview.net/pdf?id=88RKxlFUNY) \\
+[AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild](https://openreview.net/pdf?id=88RKxlFUNY) \\
 Xiaolou Sun, Wufei Si, Wenhui Ni, Yuntian Li, Dongming Wu, **Fei Xie**, Runwei Guan, He-Yang Xu, Henghui Ding, Yuan Wu, Yutao Yue, Yongming Huang, Hui Xiong 
 - VLA model for UAV
 - [PDF](https://openreview.net/pdf?id=88RKxlFUNY)
